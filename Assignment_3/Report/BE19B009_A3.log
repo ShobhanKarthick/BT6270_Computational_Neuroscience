@@ -1,0 +1,850 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.2)  10 NOV 2021 01:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**BE19B009_A3.tex
+(./BE19B009_A3.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count192
+\l__pdf_internal_box=\box47
+)
+(./BE19B009_A3.aux
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:Q1_3' multiply defined.
+
+)
+\openout1 = `BE19B009_A3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen156
+\scratchbox=\box48
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen157
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+<Images/Q1_1.png, id=1, 462.528pt x 346.896pt>
+File: Images/Q1_1.png Graphic file (type png)
+<use Images/Q1_1.png>
+Package pdftex.def Info: Images/Q1_1.png  used on input line 26.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+<Images/Q1_2.png, id=3, 462.528pt x 346.896pt>
+File: Images/Q1_2.png Graphic file (type png)
+<use Images/Q1_2.png>
+Package pdftex.def Info: Images/Q1_2.png  used on input line 32.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q1_3.png, id=4, 462.528pt x 346.896pt>
+File: Images/Q1_3.png Graphic file (type png)
+<use Images/Q1_3.png>
+Package pdftex.def Info: Images/Q1_3.png  used on input line 39.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q2_1.png, id=5, 462.528pt x 346.896pt>
+File: Images/Q2_1.png Graphic file (type png)
+<use Images/Q2_1.png>
+Package pdftex.def Info: Images/Q2_1.png  used on input line 49.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q2_2.png, id=6, 462.528pt x 346.896pt>
+File: Images/Q2_2.png Graphic file (type png)
+<use Images/Q2_2.png>
+Package pdftex.def Info: Images/Q2_2.png  used on input line 55.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/Q1_1.png> <./Imag
+es/Q1_2.png> <./Images/Q1_3.png>]
+<Images/Q2_3.png, id=19, 462.528pt x 346.896pt>
+File: Images/Q2_3.png Graphic file (type png)
+<use Images/Q2_3.png>
+Package pdftex.def Info: Images/Q2_3.png  used on input line 62.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q20.png, id=20, 462.528pt x 346.896pt>
+File: Images/Q20.png Graphic file (type png)
+<use Images/Q20.png>
+Package pdftex.def Info: Images/Q20.png  used on input line 75.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q21.png, id=21, 462.528pt x 346.896pt>
+File: Images/Q21.png Graphic file (type png)
+<use Images/Q21.png>
+Package pdftex.def Info: Images/Q21.png  used on input line 81.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q22.png, id=22, 462.528pt x 346.896pt>
+File: Images/Q22.png Graphic file (type png)
+<use Images/Q22.png>
+Package pdftex.def Info: Images/Q22.png  used on input line 88.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q23.png, id=23, 462.528pt x 346.896pt>
+File: Images/Q23.png Graphic file (type png)
+<use Images/Q23.png>
+Package pdftex.def Info: Images/Q23.png  used on input line 94.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [2 <./Images/Q2_1.png> <./Images/Q2_2.png> <./Images/Q2_3.png> <./Images/Q20.p
+ng> <./Images/Q21.png>]
+<Images/Q24.png, id=32, 462.528pt x 346.896pt>
+File: Images/Q24.png Graphic file (type png)
+<use Images/Q24.png>
+Package pdftex.def Info: Images/Q24.png  used on input line 102.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/rmse4.png, id=33, 462.528pt x 346.896pt>
+File: Images/rmse4.png Graphic file (type png)
+<use Images/rmse4.png>
+Package pdftex.def Info: Images/rmse4.png  used on input line 112.
+(pdftex.def)             Requested size: 338.58632pt x 253.95184pt.
+<Images/Q30.png, id=34, 462.528pt x 346.896pt>
+File: Images/Q30.png Graphic file (type png)
+<use Images/Q30.png>
+Package pdftex.def Info: Images/Q30.png  used on input line 124.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q31.png, id=35, 462.528pt x 346.896pt>
+File: Images/Q31.png Graphic file (type png)
+<use Images/Q31.png>
+Package pdftex.def Info: Images/Q31.png  used on input line 130.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [3 <./Images/Q22.png> <./Images/Q23.png> <./Images/Q24.png> <./Images/rmse4.pn
+g>]
+<Images/Q32.png, id=43, 462.528pt x 346.896pt>
+File: Images/Q32.png Graphic file (type png)
+<use Images/Q32.png>
+Package pdftex.def Info: Images/Q32.png  used on input line 137.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q33.png, id=44, 462.528pt x 346.896pt>
+File: Images/Q33.png Graphic file (type png)
+<use Images/Q33.png>
+Package pdftex.def Info: Images/Q33.png  used on input line 143.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q34.png, id=45, 462.528pt x 346.896pt>
+File: Images/Q34.png Graphic file (type png)
+<use Images/Q34.png>
+Package pdftex.def Info: Images/Q34.png  used on input line 150.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q35.png, id=46, 462.528pt x 346.896pt>
+File: Images/Q35.png Graphic file (type png)
+<use Images/Q35.png>
+Package pdftex.def Info: Images/Q35.png  used on input line 156.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q36.png, id=47, 462.528pt x 346.896pt>
+File: Images/Q36.png Graphic file (type png)
+<use Images/Q36.png>
+Package pdftex.def Info: Images/Q36.png  used on input line 163.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q37.png, id=48, 462.528pt x 346.896pt>
+File: Images/Q37.png Graphic file (type png)
+<use Images/Q37.png>
+Package pdftex.def Info: Images/Q37.png  used on input line 169.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [4 <./Images/Q30.png> <./Images/Q31.png> <./Images/Q32.png> <./Images/Q33.png>
+ <./Images/Q34.png> <./Images/Q35.png>]
+<Images/Q38.png, id=58, 462.528pt x 346.896pt>
+File: Images/Q38.png Graphic file (type png)
+<use Images/Q38.png>
+Package pdftex.def Info: Images/Q38.png  used on input line 176.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q39.png, id=59, 462.528pt x 346.896pt>
+File: Images/Q39.png Graphic file (type png)
+<use Images/Q39.png>
+Package pdftex.def Info: Images/Q39.png  used on input line 182.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/rmse_Q3.png, id=60, 543.4704pt x 717.6411pt>
+File: Images/rmse_Q3.png Graphic file (type png)
+<use Images/rmse_Q3.png>
+Package pdftex.def Info: Images/rmse_Q3.png  used on input line 193.
+(pdftex.def)             Requested size: 338.58632pt x 447.09009pt.
+ [5 <./Images/Q36.png> <./Images/Q37.png> <./Images/Q38.png> <./Images/Q39.png>
+]
+<Images/Q40.png, id=68, 462.528pt x 346.896pt>
+File: Images/Q40.png Graphic file (type png)
+<use Images/Q40.png>
+Package pdftex.def Info: Images/Q40.png  used on input line 205.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q41.png, id=69, 462.528pt x 346.896pt>
+File: Images/Q41.png Graphic file (type png)
+<use Images/Q41.png>
+Package pdftex.def Info: Images/Q41.png  used on input line 211.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [6 <./Images/rmse_Q3.png>]
+<Images/Q42.png, id=74, 462.528pt x 346.896pt>
+File: Images/Q42.png Graphic file (type png)
+<use Images/Q42.png>
+Package pdftex.def Info: Images/Q42.png  used on input line 218.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q43.png, id=75, 462.528pt x 346.896pt>
+File: Images/Q43.png Graphic file (type png)
+<use Images/Q43.png>
+Package pdftex.def Info: Images/Q43.png  used on input line 224.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q44.png, id=76, 462.528pt x 346.896pt>
+File: Images/Q44.png Graphic file (type png)
+<use Images/Q44.png>
+Package pdftex.def Info: Images/Q44.png  used on input line 231.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q45.png, id=77, 462.528pt x 346.896pt>
+File: Images/Q45.png Graphic file (type png)
+<use Images/Q45.png>
+Package pdftex.def Info: Images/Q45.png  used on input line 237.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q46.png, id=78, 462.528pt x 346.896pt>
+File: Images/Q46.png Graphic file (type png)
+<use Images/Q46.png>
+Package pdftex.def Info: Images/Q46.png  used on input line 244.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q47.png, id=79, 462.528pt x 346.896pt>
+File: Images/Q47.png Graphic file (type png)
+<use Images/Q47.png>
+Package pdftex.def Info: Images/Q47.png  used on input line 250.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [7 <./Images/Q40.png> <./Images/Q41.png> <./Images/Q42.png> <./Images/Q43.png>
+ <./Images/Q44.png> <./Images/Q45.png>]
+<Images/Q48.png, id=90, 462.528pt x 346.896pt>
+File: Images/Q48.png Graphic file (type png)
+<use Images/Q48.png>
+Package pdftex.def Info: Images/Q48.png  used on input line 257.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q49.png, id=91, 462.528pt x 346.896pt>
+File: Images/Q49.png Graphic file (type png)
+<use Images/Q49.png>
+Package pdftex.def Info: Images/Q49.png  used on input line 263.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/rmse_Q4.png, id=92, 543.4704pt x 717.6411pt>
+File: Images/rmse_Q4.png Graphic file (type png)
+<use Images/rmse_Q4.png>
+Package pdftex.def Info: Images/rmse_Q4.png  used on input line 274.
+(pdftex.def)             Requested size: 338.58632pt x 447.09009pt.
+ [8 <./Images/Q46.png> <./Images/Q47.png> <./Images/Q48.png> <./Images/Q49.png>
+]
+<Images/Q50.png, id=100, 462.528pt x 346.896pt>
+File: Images/Q50.png Graphic file (type png)
+<use Images/Q50.png>
+Package pdftex.def Info: Images/Q50.png  used on input line 285.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q51.png, id=101, 462.528pt x 346.896pt>
+File: Images/Q51.png Graphic file (type png)
+<use Images/Q51.png>
+Package pdftex.def Info: Images/Q51.png  used on input line 291.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [9 <./Images/rmse_Q4.png>]
+<Images/Q52.png, id=106, 462.528pt x 346.896pt>
+File: Images/Q52.png Graphic file (type png)
+<use Images/Q52.png>
+Package pdftex.def Info: Images/Q52.png  used on input line 298.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q53.png, id=107, 462.528pt x 346.896pt>
+File: Images/Q53.png Graphic file (type png)
+<use Images/Q53.png>
+Package pdftex.def Info: Images/Q53.png  used on input line 304.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q54.png, id=108, 462.528pt x 346.896pt>
+File: Images/Q54.png Graphic file (type png)
+<use Images/Q54.png>
+Package pdftex.def Info: Images/Q54.png  used on input line 311.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q55.png, id=109, 462.528pt x 346.896pt>
+File: Images/Q55.png Graphic file (type png)
+<use Images/Q55.png>
+Package pdftex.def Info: Images/Q55.png  used on input line 317.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q56.png, id=110, 462.528pt x 346.896pt>
+File: Images/Q56.png Graphic file (type png)
+<use Images/Q56.png>
+Package pdftex.def Info: Images/Q56.png  used on input line 324.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q57.png, id=111, 462.528pt x 346.896pt>
+File: Images/Q57.png Graphic file (type png)
+<use Images/Q57.png>
+Package pdftex.def Info: Images/Q57.png  used on input line 330.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [10 <./Images/Q50.png> <./Images/Q51.png> <./Images/Q52.png> <./Images/Q53.png
+> <./Images/Q54.png> <./Images/Q55.png>]
+<Images/Q58.png, id=121, 462.528pt x 346.896pt>
+File: Images/Q58.png Graphic file (type png)
+<use Images/Q58.png>
+Package pdftex.def Info: Images/Q58.png  used on input line 337.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/Q59.png, id=122, 462.528pt x 346.896pt>
+File: Images/Q59.png Graphic file (type png)
+<use Images/Q59.png>
+Package pdftex.def Info: Images/Q59.png  used on input line 343.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/rmse_Q5.png, id=123, 543.4704pt x 717.6411pt>
+File: Images/rmse_Q5.png Graphic file (type png)
+<use Images/rmse_Q5.png>
+Package pdftex.def Info: Images/rmse_Q5.png  used on input line 354.
+(pdftex.def)             Requested size: 338.58632pt x 447.09009pt.
+
+[11 <./Images/Q56.png> <./Images/Q57.png> <./Images/Q58.png> <./Images/Q59.png>
+]
+<Images/catQ20.png, id=131, 462.528pt x 346.896pt>
+File: Images/catQ20.png Graphic file (type png)
+<use Images/catQ20.png>
+Package pdftex.def Info: Images/catQ20.png  used on input line 365.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/catQ22.png, id=132, 462.528pt x 346.896pt>
+File: Images/catQ22.png Graphic file (type png)
+<use Images/catQ22.png>
+Package pdftex.def Info: Images/catQ22.png  used on input line 371.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [12 <./Images/rmse_Q5.png>]
+<Images/catQ24.png, id=137, 462.528pt x 346.896pt>
+File: Images/catQ24.png Graphic file (type png)
+<use Images/catQ24.png>
+Package pdftex.def Info: Images/catQ24.png  used on input line 378.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/catrmse4.png, id=138, 462.528pt x 346.896pt>
+File: Images/catrmse4.png Graphic file (type png)
+<use Images/catrmse4.png>
+Package pdftex.def Info: Images/catrmse4.png  used on input line 389.
+(pdftex.def)             Requested size: 241.84843pt x 181.38736pt.
+<Images/catQ30.png, id=139, 462.528pt x 346.896pt>
+File: Images/catQ30.png Graphic file (type png)
+<use Images/catQ30.png>
+Package pdftex.def Info: Images/catQ30.png  used on input line 400.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/catQ34.png, id=140, 462.528pt x 346.896pt>
+File: Images/catQ34.png Graphic file (type png)
+<use Images/catQ34.png>
+Package pdftex.def Info: Images/catQ34.png  used on input line 406.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [13 <./Images/catQ20.png> <./Images/catQ22.png> <./Images/catQ24.png> <./Image
+s/catrmse4.png>]
+<Images/catQ39.png, id=149, 462.528pt x 346.896pt>
+File: Images/catQ39.png Graphic file (type png)
+<use Images/catQ39.png>
+Package pdftex.def Info: Images/catQ39.png  used on input line 413.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+File: Images/catrmse4.png Graphic file (type png)
+<use Images/catrmse4.png>
+Package pdftex.def Info: Images/catrmse4.png  used on input line 424.
+(pdftex.def)             Requested size: 241.84843pt x 181.38736pt.
+<Images/catQ40.png, id=150, 462.528pt x 346.896pt>
+File: Images/catQ40.png Graphic file (type png)
+<use Images/catQ40.png>
+Package pdftex.def Info: Images/catQ40.png  used on input line 435.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/catQ44.png, id=151, 462.528pt x 346.896pt>
+File: Images/catQ44.png Graphic file (type png)
+<use Images/catQ44.png>
+Package pdftex.def Info: Images/catQ44.png  used on input line 441.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [14 <./Images/catQ30.png> <./Images/catQ34.png> <./Images/catQ39.png>]
+<Images/catQ49.png, id=158, 462.528pt x 346.896pt>
+File: Images/catQ49.png Graphic file (type png)
+<use Images/catQ49.png>
+Package pdftex.def Info: Images/catQ49.png  used on input line 448.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+File: Images/catrmse4.png Graphic file (type png)
+<use Images/catrmse4.png>
+Package pdftex.def Info: Images/catrmse4.png  used on input line 459.
+(pdftex.def)             Requested size: 241.84843pt x 181.38736pt.
+<Images/catQ50.png, id=159, 462.528pt x 346.896pt>
+File: Images/catQ50.png Graphic file (type png)
+<use Images/catQ50.png>
+Package pdftex.def Info: Images/catQ50.png  used on input line 470.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/catQ54.png, id=160, 462.528pt x 346.896pt>
+File: Images/catQ54.png Graphic file (type png)
+<use Images/catQ54.png>
+Package pdftex.def Info: Images/catQ54.png  used on input line 476.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [15 <./Images/catQ40.png> <./Images/catQ44.png> <./Images/catQ49.png>]
+<Images/catQ59.png, id=167, 462.528pt x 346.896pt>
+File: Images/catQ59.png Graphic file (type png)
+<use Images/catQ59.png>
+Package pdftex.def Info: Images/catQ59.png  used on input line 483.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+File: Images/catrmse4.png Graphic file (type png)
+<use Images/catrmse4.png>
+Package pdftex.def Info: Images/catrmse4.png  used on input line 494.
+(pdftex.def)             Requested size: 241.84843pt x 181.38736pt.
+<Images/monaQ20.png, id=168, 462.528pt x 346.896pt>
+File: Images/monaQ20.png Graphic file (type png)
+<use Images/monaQ20.png>
+Package pdftex.def Info: Images/monaQ20.png  used on input line 505.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/monaQ22.png, id=169, 462.528pt x 346.896pt>
+File: Images/monaQ22.png Graphic file (type png)
+<use Images/monaQ22.png>
+Package pdftex.def Info: Images/monaQ22.png  used on input line 511.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [16 <./Images/catQ50.png> <./Images/catQ54.png> <./Images/catQ59.png>]
+<Images/monaQ24.png, id=176, 462.528pt x 346.896pt>
+File: Images/monaQ24.png Graphic file (type png)
+<use Images/monaQ24.png>
+Package pdftex.def Info: Images/monaQ24.png  used on input line 518.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/mona_rmse_Q2.png, id=177, 680.0607pt x 717.6411pt>
+File: Images/mona_rmse_Q2.png Graphic file (type png)
+<use Images/mona_rmse_Q2.png>
+Package pdftex.def Info: Images/mona_rmse_Q2.png  used on input line 529.
+(pdftex.def)             Requested size: 241.84843pt x 255.20786pt.
+ [17 <./Images/monaQ20.png> <./Images/monaQ22.png> <./Images/monaQ24.png>]
+<Images/monaQ30.png, id=184, 462.528pt x 346.896pt>
+File: Images/monaQ30.png Graphic file (type png)
+<use Images/monaQ30.png>
+Package pdftex.def Info: Images/monaQ30.png  used on input line 540.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/monaQ34.png, id=185, 462.528pt x 346.896pt>
+File: Images/monaQ34.png Graphic file (type png)
+<use Images/monaQ34.png>
+Package pdftex.def Info: Images/monaQ34.png  used on input line 546.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/monaQ39.png, id=186, 462.528pt x 346.896pt>
+File: Images/monaQ39.png Graphic file (type png)
+<use Images/monaQ39.png>
+Package pdftex.def Info: Images/monaQ39.png  used on input line 553.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [18 <./Images/mona_rmse_Q2.png> <./Images/monaQ30.png> <./Images/monaQ34.png>]
+<Images/mona_rmse_Q3.png, id=193, 680.0607pt x 717.6411pt>
+File: Images/mona_rmse_Q3.png Graphic file (type png)
+<use Images/mona_rmse_Q3.png>
+Package pdftex.def Info: Images/mona_rmse_Q3.png  used on input line 564.
+(pdftex.def)             Requested size: 241.84843pt x 255.20786pt.
+<Images/monaQ40.png, id=194, 462.528pt x 346.896pt>
+File: Images/monaQ40.png Graphic file (type png)
+<use Images/monaQ40.png>
+Package pdftex.def Info: Images/monaQ40.png  used on input line 575.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/monaQ44.png, id=195, 462.528pt x 346.896pt>
+File: Images/monaQ44.png Graphic file (type png)
+<use Images/monaQ44.png>
+Package pdftex.def Info: Images/monaQ44.png  used on input line 581.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+ [19 <./Images/monaQ39.png> <./Images/mona_rmse_Q3.png>]
+<Images/monaQ49.png, id=202, 462.528pt x 346.896pt>
+File: Images/monaQ49.png Graphic file (type png)
+<use Images/monaQ49.png>
+Package pdftex.def Info: Images/monaQ49.png  used on input line 588.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/mona_rmse_Q4.png, id=203, 680.0607pt x 717.6411pt>
+File: Images/mona_rmse_Q4.png Graphic file (type png)
+<use Images/mona_rmse_Q4.png>
+Package pdftex.def Info: Images/mona_rmse_Q4.png  used on input line 599.
+(pdftex.def)             Requested size: 241.84843pt x 255.20786pt.
+
+[20 <./Images/monaQ40.png> <./Images/monaQ44.png> <./Images/monaQ49.png>]
+<Images/monaQ50.png, id=210, 462.528pt x 346.896pt>
+File: Images/monaQ50.png Graphic file (type png)
+<use Images/monaQ50.png>
+Package pdftex.def Info: Images/monaQ50.png  used on input line 610.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/monaQ54.png, id=211, 462.528pt x 346.896pt>
+File: Images/monaQ54.png Graphic file (type png)
+<use Images/monaQ54.png>
+Package pdftex.def Info: Images/monaQ54.png  used on input line 616.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+<Images/monaQ59.png, id=212, 462.528pt x 346.896pt>
+File: Images/monaQ59.png Graphic file (type png)
+<use Images/monaQ59.png>
+Package pdftex.def Info: Images/monaQ59.png  used on input line 623.
+(pdftex.def)             Requested size: 217.66211pt x 163.24757pt.
+
+[21 <./Images/mona_rmse_Q4.png> <./Images/monaQ50.png> <./Images/monaQ54.png>]
+<Images/mona_rmse_Q5.png, id=219, 680.0607pt x 717.6411pt>
+File: Images/mona_rmse_Q5.png Graphic file (type png)
+<use Images/mona_rmse_Q5.png>
+Package pdftex.def Info: Images/mona_rmse_Q5.png  used on input line 634.
+(pdftex.def)             Requested size: 241.84843pt x 255.20786pt.
+
+[22 <./Images/monaQ59.png> <./Images/mona_rmse_Q5.png>] (./BE19B009_A3.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3558 strings out of 478994
+ 58665 string characters out of 5864752
+ 345383 words of memory out of 5000000
+ 20987 multiletter control sequences out of 15000+600000
+ 409356 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,74p,312b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmtt12.pfb>
+Output written on BE19B009_A3.pdf (22 pages, 1339933 bytes).
+PDF statistics:
+ 240 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
+

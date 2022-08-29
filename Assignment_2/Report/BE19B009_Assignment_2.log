@@ -1,0 +1,378 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.2)  12 OCT 2021 23:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**BE19B009_Assignment_2.tex
+(./BE19B009_Assignment_2.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count192
+\l__pdf_internal_box=\box47
+)
+(./BE19B009_Assignment_2.aux)
+\openout1 = `BE19B009_Assignment_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen156
+\scratchbox=\box48
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen157
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 27.
+<Images/Q1_a.png, id=1, 433.62pt x 433.62pt>
+File: Images/Q1_a.png Graphic file (type png)
+<use Images/Q1_a.png>
+Package pdftex.def Info: Images/Q1_a.png  used on input line 34.
+(pdftex.def)             Requested size: 266.03474pt x 266.04945pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/Q1_a.png>]
+<Images/Q1_b_i_1.png, id=22, 433.62pt x 433.62pt>
+File: Images/Q1_b_i_1.png Graphic file (type png)
+<use Images/Q1_b_i_1.png>
+Package pdftex.def Info: Images/Q1_b_i_1.png  used on input line 51.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q1_b_i_2.png, id=23, 433.62pt x 433.62pt>
+File: Images/Q1_b_i_2.png Graphic file (type png)
+<use Images/Q1_b_i_2.png>
+Package pdftex.def Info: Images/Q1_b_i_2.png  used on input line 57.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q1_b_i_3.png, id=24, 433.62pt x 433.62pt>
+File: Images/Q1_b_i_3.png Graphic file (type png)
+<use Images/Q1_b_i_3.png>
+Package pdftex.def Info: Images/Q1_b_i_3.png  used on input line 64.
+(pdftex.def)             Requested size: 338.58632pt x 338.59938pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 62--68
+[]$[]$ 
+ []
+
+<Images/Q1_b_ii_1.png, id=25, 433.62pt x 433.62pt>
+File: Images/Q1_b_ii_1.png Graphic file (type png)
+<use Images/Q1_b_ii_1.png>
+Package pdftex.def Info: Images/Q1_b_ii_1.png  used on input line 72.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q1_b_ii_2.png, id=26, 433.62pt x 433.62pt>
+File: Images/Q1_b_ii_2.png Graphic file (type png)
+<use Images/Q1_b_ii_2.png>
+Package pdftex.def Info: Images/Q1_b_ii_2.png  used on input line 78.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+[2 <./Images/Q1_b_i_1.png> <./Images/Q1_b_i_2.png> <./Images/Q1_b_i_3.png>]
+<Images/Q1_b_ii_3.png, id=33, 433.62pt x 433.62pt>
+File: Images/Q1_b_ii_3.png Graphic file (type png)
+<use Images/Q1_b_ii_3.png>
+Package pdftex.def Info: Images/Q1_b_ii_3.png  used on input line 86.
+(pdftex.def)             Requested size: 338.58632pt x 338.59938pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 84--90
+[]$[]$ 
+ []
+
+<Images/Q2_1.png, id=34, 433.62pt x 433.62pt>
+File: Images/Q2_1.png Graphic file (type png)
+<use Images/Q2_1.png>
+Package pdftex.def Info: Images/Q2_1.png  used on input line 99.
+(pdftex.def)             Requested size: 217.66211pt x 217.663pt.
+<Images/Q2_5.png, id=35, 433.62pt x 433.62pt>
+File: Images/Q2_5.png Graphic file (type png)
+<use Images/Q2_5.png>
+Package pdftex.def Info: Images/Q2_5.png  used on input line 105.
+(pdftex.def)             Requested size: 217.66211pt x 217.663pt.
+[3 <./Images/Q1_b_ii_1.png> <./Images/Q1_b_ii_2.png> <./Images/Q1_b_ii_3.png>]
+<Images/Q2_3.png, id=43, 433.62pt x 433.62pt>
+File: Images/Q2_3.png Graphic file (type png)
+<use Images/Q2_3.png>
+Package pdftex.def Info: Images/Q2_3.png  used on input line 117.
+(pdftex.def)             Requested size: 217.66211pt x 217.663pt.
+<Images/Q2_7.png, id=44, 433.62pt x 433.62pt>
+File: Images/Q2_7.png Graphic file (type png)
+<use Images/Q2_7.png>
+Package pdftex.def Info: Images/Q2_7.png  used on input line 123.
+(pdftex.def)             Requested size: 217.66211pt x 217.663pt.
+<Images/Q2_a.png, id=45, 433.62pt x 433.62pt>
+File: Images/Q2_a.png Graphic file (type png)
+<use Images/Q2_a.png>
+Package pdftex.def Info: Images/Q2_a.png  used on input line 136.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q2_b_1.png, id=46, 433.62pt x 433.62pt>
+File: Images/Q2_b_1.png Graphic file (type png)
+<use Images/Q2_b_1.png>
+Package pdftex.def Info: Images/Q2_b_1.png  used on input line 143.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+
+[4 <./Images/Q2_1.png> <./Images/Q2_5.png> <./Images/Q2_3.png> <./Images/Q2_7.p
+ng>]
+<Images/Q2_c_1.png, id=55, 433.62pt x 433.62pt>
+File: Images/Q2_c_1.png Graphic file (type png)
+<use Images/Q2_c_1.png>
+Package pdftex.def Info: Images/Q2_c_1.png  used on input line 158.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q2_c_2.png, id=56, 433.62pt x 433.62pt>
+File: Images/Q2_c_2.png Graphic file (type png)
+<use Images/Q2_c_2.png>
+Package pdftex.def Info: Images/Q2_c_2.png  used on input line 164.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q2_c_3.png, id=57, 433.62pt x 433.62pt>
+File: Images/Q2_c_3.png Graphic file (type png)
+<use Images/Q2_c_3.png>
+Package pdftex.def Info: Images/Q2_c_3.png  used on input line 172.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q2_c_4.png, id=58, 433.62pt x 433.62pt>
+File: Images/Q2_c_4.png Graphic file (type png)
+<use Images/Q2_c_4.png>
+Package pdftex.def Info: Images/Q2_c_4.png  used on input line 178.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+ [5 <./Images/Q2_a.png> <./Images/Q2_b_1.png> <./Images/Q2_c_1.png> <./Images/Q
+2_c_2.png>]
+<Images/Q3_a.png, id=66, 433.62pt x 433.62pt>
+File: Images/Q3_a.png Graphic file (type png)
+<use Images/Q3_a.png>
+Package pdftex.def Info: Images/Q3_a.png  used on input line 194.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q3_b.png, id=67, 433.62pt x 433.62pt>
+File: Images/Q3_b.png Graphic file (type png)
+<use Images/Q3_b.png>
+Package pdftex.def Info: Images/Q3_b.png  used on input line 201.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+ [6 <./Images/Q2_c_3.png> <./Images/Q2_c_4.png> <./Images/Q3_a.png> <./Images/Q
+3_b.png>]
+<Images/Q3_c_1.png, id=75, 433.62pt x 433.62pt>
+File: Images/Q3_c_1.png Graphic file (type png)
+<use Images/Q3_c_1.png>
+Package pdftex.def Info: Images/Q3_c_1.png  used on input line 214.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q3_c_2.png, id=76, 433.62pt x 433.62pt>
+File: Images/Q3_c_2.png Graphic file (type png)
+<use Images/Q3_c_2.png>
+Package pdftex.def Info: Images/Q3_c_2.png  used on input line 220.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q3_c_3.png, id=77, 433.62pt x 433.62pt>
+File: Images/Q3_c_3.png Graphic file (type png)
+<use Images/Q3_c_3.png>
+Package pdftex.def Info: Images/Q3_c_3.png  used on input line 228.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q3_c_4.png, id=78, 433.62pt x 433.62pt>
+File: Images/Q3_c_4.png Graphic file (type png)
+<use Images/Q3_c_4.png>
+Package pdftex.def Info: Images/Q3_c_4.png  used on input line 234.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q4_a.png, id=79, 433.62pt x 433.62pt>
+File: Images/Q4_a.png Graphic file (type png)
+<use Images/Q4_a.png>
+Package pdftex.def Info: Images/Q4_a.png  used on input line 250.
+(pdftex.def)             Requested size: 290.22107pt x 290.23276pt.
+ [7 <./Images/Q3_c_1.png> <./Images/Q3_c_2.png> <./Images/Q3_c_3.png> <./Images
+/Q3_c_4.png>]
+<Images/Q4_c_1.png, id=88, 433.62pt x 433.62pt>
+File: Images/Q4_c_1.png Graphic file (type png)
+<use Images/Q4_c_1.png>
+Package pdftex.def Info: Images/Q4_c_1.png  used on input line 261.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q4_c_2.png, id=89, 433.62pt x 433.62pt>
+File: Images/Q4_c_2.png Graphic file (type png)
+<use Images/Q4_c_2.png>
+Package pdftex.def Info: Images/Q4_c_2.png  used on input line 267.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q4_c_3.png, id=90, 433.62pt x 433.62pt>
+File: Images/Q4_c_3.png Graphic file (type png)
+<use Images/Q4_c_3.png>
+Package pdftex.def Info: Images/Q4_c_3.png  used on input line 275.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+<Images/Q4_c_4.png, id=91, 433.62pt x 433.62pt>
+File: Images/Q4_c_4.png Graphic file (type png)
+<use Images/Q4_c_4.png>
+Package pdftex.def Info: Images/Q4_c_4.png  used on input line 281.
+(pdftex.def)             Requested size: 232.17242pt x 232.17297pt.
+ [8 <./Images/Q4_a.png> <./Images/Q4_c_1.png> <./Images/Q4_c_2.png>] [9 <./Imag
+es/Q4_c_3.png> <./Images/Q4_c_4.png>]
+(./BE19B009_Assignment_2.aux) ) 
+Here is how much of TeX's memory you used:
+ 3258 strings out of 478994
+ 53911 string characters out of 5864752
+ 346606 words of memory out of 5000000
+ 20719 multiletter control sequences out of 15000+600000
+ 416856 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,74p,392b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on BE19B009_Assignment_2.pdf (9 pages, 1591184 bytes).
+PDF statistics:
+ 151 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+
